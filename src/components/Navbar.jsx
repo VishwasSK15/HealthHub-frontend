@@ -37,7 +37,7 @@ const Navbar = () => {
           <li className='py-1'>CONTACT</li>
           <hr className='border-none outline-none h-0.5 bg-primary w-3/5 m-auto hidden' />
         </NavLink>
-        <a href="http://localhost:5174" target="_blank" rel="noopener noreferrer"
+        <a href="https://health-hub-admin.vercel.app/" target="_blank" rel="noopener noreferrer"
         className="border border-gray-300 px-4 py-2 rounded-full hover:bg-gray-100 transition">
         Admin Panel
         </a>
